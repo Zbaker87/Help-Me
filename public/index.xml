@@ -23,11 +23,11 @@
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:&#xA;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     <item>
-      <title>About</title>
+      <title>Research</title>
       <link>//localhost:4321/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       <guid>//localhost:4321/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>The Stark Lab uses an integrative approach to explore how environmental factors affect the performance, behavior, and morphology of biological organisms. Specifically, we integrate laboratory and field-based methods rooted in biology, with analytical and theoretical methods from physics, chemistry, and material science. Most of our work is focused on using geckos, ants, and sea urchins to explore questions about the functional morphology of adhesion. Additional areas of interest include biomechanics of locomotion and the functional properties of biological materials.</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
