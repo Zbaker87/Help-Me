@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://AlyssaStarkLabs.com/
 languageCode: en-US
 title: Stark Lab
 theme: hugo-lithium
@@ -9,17 +9,17 @@ ignoreFiles:
   - \.Rmarkdown$
   - _cache$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  - name: About
+    url: /about/
 menu:
   main:
+    
     - name: Research
-      url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: /Research/
     - name: People
       url: /people/
+    - name: Perspective Members
+      url: /Perspective_Members/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -32,10 +32,10 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    alt: Stark Labs
+    height: 1000
+    url: Stark_Circle.png
+    width: 1000
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

@@ -2,44 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://AlyssaStarkLabs.com/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/2020/12/01/hello-r-markdown/</loc>
+    <loc>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
+    <loc>https://AlyssaStarkLabs.com/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://AlyssaStarkLabs.com/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
+    <loc>https://AlyssaStarkLabs.com/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://AlyssaStarkLabs.com/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
+    <loc>https://AlyssaStarkLabs.com/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://AlyssaStarkLabs.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://AlyssaStarkLabs.com/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://AlyssaStarkLabs.com/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>/2015/01/01/lorem-ipsum/</loc>
+    <loc>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>/1/01/01/</loc>
+    <loc>https://AlyssaStarkLabs.com/people/</loc>
   </url><url>
-    <loc>/people/</loc>
+    <loc>https://AlyssaStarkLabs.com/perspective_members/</loc>
+  </url><url>
+    <loc>https://AlyssaStarkLabs.com/research/</loc>
   </url>
 </urlset>
