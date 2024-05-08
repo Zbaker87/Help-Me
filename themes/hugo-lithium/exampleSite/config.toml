@@ -1,4 +1,4 @@
-baseurl = "https://AlyssaStarkLabs.com/"
+baseurl = "http://AlyssaStarkLabs.com/"
 languageCode = "en-US"
 title = "Stark Lab"
 theme = "hugo-lithium"
@@ -19,7 +19,7 @@ defaultLayout = "/Homepage/"
     name = "People"
     url = "/people/"
 [[menu.main]]
-    name = "Perspective Members"
+    name = "Prospective Members"
     url = "/Perspective_Members/"
 
 [params]

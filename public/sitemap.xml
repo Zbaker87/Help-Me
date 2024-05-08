@@ -2,46 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AlyssaStarkLabs.com/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/post/congrats/congrats/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/post/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/post/welcome/welcome/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/post/congrats2/congrats2/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://AlyssaStarkLabs.com/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://AlyssaStarkLabs.com/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://AlyssaStarkLabs.com/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url><url>
-    <loc>https://AlyssaStarkLabs.com/about/</loc>
+    <loc>http://AlyssaStarkLabs.com/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+    <loc>http://AlyssaStarkLabs.com/categories/</loc>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/people/</loc>
+    <loc>http://AlyssaStarkLabs.com/people/</loc>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/perspective_members/</loc>
+    <loc>http://AlyssaStarkLabs.com/perspective_members/</loc>
   </url><url>
-    <loc>https://AlyssaStarkLabs.com/research/</loc>
+    <loc>http://AlyssaStarkLabs.com/research/</loc>
+  </url><url>
+    <loc>http://AlyssaStarkLabs.com/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseurl: https://AlyssaStarkLabs.com/
+baseurl: http://AlyssaStarkLabs.com/
 languageCode: en-US
 title: Stark Lab
 theme: hugo-lithium
@@ -18,7 +18,7 @@ menu:
       url: /Research/
     - name: People
       url: /people/
-    - name: Perspective Members
+    - name: Prospective Members
       url: /Perspective_Members/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs

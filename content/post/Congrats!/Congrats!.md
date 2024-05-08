@@ -1,0 +1,8 @@
+---
+title: Congratulations Stark Lab Gradautes!
+date: 2024-05-07
+---
+
+Congratulations to Kaylee and Rachel on completing their greaduate thesis and MS degrees!
+
+Congratulations to Mandy and Evan for completing their senior Thesis and BS degrees!

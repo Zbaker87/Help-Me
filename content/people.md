@@ -2,7 +2,7 @@
 title: People
 ---
 
-![Stark Lab Graduate Students](/./people_files/Stark_Mountain.png){width=400px height=600px}
+![width=400px height=600px](/./people_files/Stark_Mountain.png){Stark Lab Grad Students}
 
 ---
 Congratulations to Kaylee and Rachel for completing their Master's Thesis!!! 
@@ -11,18 +11,20 @@ Congratulations to Kaylee and Rachel for completing their Master's Thesis!!!
 ---
 Post Docs
 ---
-
+![Dr. Keegan Lutek](/./people_files/keegan.jpg)
 Keegan Lutek
 
+
+![Dr. Teresa Rose Osborne](/./people_files/Teresa.jpeg)
 Teresa "Rose" Osborne
 
 ---
 Graduate Students
 ---
+![Michael Drummond](/./people_files/Mike.png) Michael Drummond
 
-Michael Drummond
+![Zachary Baker](/./people_files/Zach.png) Zachary Baker
 
-Zachary Baker
 
 ---
 Undergraduate Students
@@ -30,17 +32,25 @@ Undergraduate Students
 
 
 Chris
+
 Kai
+
 Nina
+
 Nicolette
+
 Emma
+
 Abby
+
 Katelyn
+
 Marly
+
 Jason
 
 ---
-Animal Technician
+Animal Care Technician
 ---
 
 Alivia
@@ -49,13 +59,20 @@ Alivia
 Former Postdocs
 ---
 
-Austin Garner
+Dr. Austin Garner
 
 ---
 Former Students
 ---
 
 Chris Mitchell
+
 Katelyn Voughtner
+
 Kaylee Velasquez
+
 Rachel Carrock
+
+Evan 
+
+Mandy 

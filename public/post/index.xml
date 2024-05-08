@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stark Lab</title>
-    <link>https://AlyssaStarkLabs.com/post/</link>
+    <link>http://AlyssaStarkLabs.com/post/</link>
     <description>Recent content in Posts on Stark Lab</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="https://AlyssaStarkLabs.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://AlyssaStarkLabs.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars)&#xD;## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <title>Congratulations Stark Lab Gradautes!</title>
+      <link>http://AlyssaStarkLabs.com/post/congrats/congrats/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://AlyssaStarkLabs.com/post/congrats/congrats/</guid>
+      <description>Congratulations to Kaylee and Rachel on completing their greaduate thesis and MS degrees!&#xA;Congratulations to Mandy and Evan for completing their senior Thesis and BS degrees!</description>
     </item>
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      <guid>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:&#xA;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <title>Welcome to the lab!</title>
+      <link>http://AlyssaStarkLabs.com/post/welcome/welcome/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://AlyssaStarkLabs.com/post/welcome/welcome/</guid>
+      <description>We would like to welcome Jason, Marly, and Katelyn to the Stark Lab as new undergraduate members! They will be working on senior thesis and assisting current grad students with larger projects on urchins, ants, and corals!</description>
     </item>
     <item>
-      <title>Lorem Ipsum</title>
-      <link>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      <guid>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <title>Congrats to Threesa!</title>
+      <link>http://AlyssaStarkLabs.com/post/congrats2/congrats2/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://AlyssaStarkLabs.com/post/congrats2/congrats2/</guid>
+      <description>Congratulations Dr. Threesa Rose Osborne (totally not affiliated with Oscorp) on landing the position as a conservation ecologist at the Wedding cake conservation area on the island of Rota.</description>
     </item>
   </channel>
 </rss>
