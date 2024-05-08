@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stark Lab</title>
-    <link>//localhost:4321/</link>
+    <link>https://AlyssaStarkLabs.com/</link>
     <description>Recent content on Stark Lab</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://AlyssaStarkLabs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
-      <link>//localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>//localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://AlyssaStarkLabs.com/post/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars)&#xD;## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     <item>
       <title>A Plain Markdown Post</title>
-      <link>//localhost:4321/post/2016-12-30-hello-markdown/</link>
+      <link>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      <guid>//localhost:4321/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://AlyssaStarkLabs.com/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:&#xA;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     <item>
       <title>Stark Lab</title>
-      <link>//localhost:4321/about/</link>
+      <link>https://AlyssaStarkLabs.com/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      <guid>//localhost:4321/about/</guid>
+      <guid>https://AlyssaStarkLabs.com/about/</guid>
       <description>My research program uses an integrative approach to explore how environmental factors affect the morphology, performance, and behavior of biological organisms. I integrate laboratory and field-based methods rooted in biology, with analytical and theoretical methods from physics, chemistry, and material science. Currently I use ants and geckos to explore questions about the functional morphology of adhesion. I have three major areas of interest: 1. Research on the adhesive systems of ants and geckos has principally focused the physical mechanism of adhesion.</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
-      <link>//localhost:4321/post/2015-01-01-lorem-ipsum/</link>
+      <link>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      <guid>//localhost:4321/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>https://AlyssaStarkLabs.com/post/2015-01-01-lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>People</title>
-      <link>//localhost:4321/people/</link>
+      <link>https://AlyssaStarkLabs.com/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/people/</guid>
-      <description>Congratulations to Kaylee and Rachel for completing their Master&amp;rsquo;s Thesis!!! Post Docs Keegan Lutek&#xA;Teresa &amp;ldquo;Rose&amp;rdquo; Osborne&#xA;Graduate Students Michael Drummond&#xA;Zachary Baker&#xA;Undergraduate Students Chris Kai Nina Nicolette Emma Abby Katelyn Marly Jason&#xA;Animal Technician Alivia&#xA;Former Postdocs Austin Garner&#xA;Former Students Chris Mitchell Katelyn Voughtner Kaylee Velasquez Rachel Carrock</description>
+      <guid>https://AlyssaStarkLabs.com/people/</guid>
+      <description>{width=400px height=600px}&#xA;Congratulations to Kaylee and Rachel for completing their Master&amp;rsquo;s Thesis!!! Post Docs Keegan Lutek&#xA;Teresa &amp;ldquo;Rose&amp;rdquo; Osborne&#xA;Graduate Students Michael Drummond&#xA;Zachary Baker&#xA;Undergraduate Students Chris Kai Nina Nicolette Emma Abby Katelyn Marly Jason&#xA;Animal Technician Alivia&#xA;Former Postdocs Austin Garner&#xA;Former Students Chris Mitchell Katelyn Voughtner Kaylee Velasquez Rachel Carrock</description>
     </item>
     <item>
       <title>Perspective Members</title>
-      <link>//localhost:4321/perspective_members/</link>
+      <link>https://AlyssaStarkLabs.com/perspective_members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/perspective_members/</guid>
+      <guid>https://AlyssaStarkLabs.com/perspective_members/</guid>
       <description>If you are interested in joining the lab, please contact Dr. Stark by email at [alyssa.stark@villanova.edu{.email}].</description>
     </item>
     <item>
       <title>Research</title>
-      <link>//localhost:4321/research/</link>
+      <link>https://AlyssaStarkLabs.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/</guid>
-      <description> Coral coming soon!&#xA;Sea Urchin Ants Geckos Previous Works </description>
+      <guid>https://AlyssaStarkLabs.com/research/</guid>
+      <description>Coral coming soon!&#xA;Sea Urchin NarGarner, A.M., Moura, A.J., Narvaez, C.A., Stark, A.Y., Russell, M.P., 2024. Repeated Hyposalinity Pulses Immediately and Persistently Impair the Sea Urchin Adhesive System. Integrative And Comparative Biology icae003. https://doi.org/10.1093/icb/icae003&#xA;Moura, A.J., Garner, A.M., Narvaez, C.A., Cucchiara, J.P., Stark, A.Y., Russell, M.P., 2023. Hyposalinity reduces coordination and adhesion of sea urchin tube feet. Journal of Experimental Biology 226, jeb245750. https://doi.org/10.1242/jeb.245750&#xA;Narvaez, C.A., Moura, A.J., Scutella, D.</description>
     </item>
   </channel>
 </rss>

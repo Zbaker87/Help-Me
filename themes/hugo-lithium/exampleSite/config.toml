@@ -9,9 +9,9 @@ defaultLayout = "/Homepage/"
 
 [permalinks]
    
+[[menu.main]]
     name = "About"
     url = "/about/"
-    
 [[menu.main]]
     name = "Research"
     url = "/Research/"

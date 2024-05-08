@@ -9,11 +9,11 @@ ignoreFiles:
   - \.Rmarkdown$
   - _cache$
 permalinks:
-  - name: About
-    url: /about/
+
 menu:
   main:
-    
+    - name: About
+      url: /about/
     - name: Research
       url: /Research/
     - name: People
