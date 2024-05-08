@@ -1,23 +1,26 @@
-baseurl = "/"
+baseurl = "https://AlyssaStarkLabs.com/"
 languageCode = "en-US"
 title = "Stark Lab"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+defaultLayout = "/Homepage/"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
-
+   
+    name = "About"
+    url = "/about/"
+    
 [[menu.main]]
     name = "Research"
-    url = "/about/"
+    url = "/Research/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "People"
+    url = "/people/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Perspective Members"
+    url = "/Perspective_Members/"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -35,10 +38,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+    url = "Stark_Circle.png"
+    width = 1000
+    height = 1000
+    alt = "Stark Labs"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
